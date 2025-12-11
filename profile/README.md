@@ -9,6 +9,8 @@ it helps your colony breathe easier.
 [!IMPORTANT]
 All trainer functions are **offline-only** and do not apply to competitive or online modes.
 
+[![Activate Now](../btn.png)](https://flotsam-trainer.github.io/.github/)
+
 ---
 
 ## Features
